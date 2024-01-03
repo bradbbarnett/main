@@ -1,0 +1,6 @@
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\bin\Release\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\bin\Release\EEIP.pdb
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Release\EEIP.csproj.AssemblyReference.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Release\EEIP.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Release\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Release\EEIP.pdb

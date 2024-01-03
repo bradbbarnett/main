@@ -1,0 +1,12 @@
+C:\Users\bbarnett\source\repos\EtherNetIP\Class\bin\Debug\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\Class\bin\Debug\EEIP.pdb
+C:\Users\bbarnett\source\repos\EtherNetIP\Class\obj\Debug\EEIP.csproj.AssemblyReference.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\Class\obj\Debug\EEIP.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\Class\obj\Debug\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\Class\obj\Debug\EEIP.pdb
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\bin\Debug\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\bin\Debug\EEIP.pdb
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Debug\EEIP.csproj.AssemblyReference.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Debug\EEIP.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Debug\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\EEIP\obj\Debug\EEIP.pdb

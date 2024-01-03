@@ -1,0 +1,14 @@
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\bin\Debug\EtherNetIP.exe.config
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\bin\Debug\EtherNetIP.exe
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\bin\Debug\EtherNetIP.pdb
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\bin\Debug\EEIP.dll
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\bin\Debug\EEIP.pdb
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.csproj.AssemblyReference.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.Form_Main.resources
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.Properties.Resources.resources
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.csproj.GenerateResource.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.csproj.CopyComplete
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.exe
+C:\Users\bbarnett\source\repos\EtherNetIP\EtherNetIP\obj\Debug\EtherNetIP.pdb
