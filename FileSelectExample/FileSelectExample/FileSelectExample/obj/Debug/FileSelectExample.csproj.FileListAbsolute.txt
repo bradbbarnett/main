@@ -1,0 +1,10 @@
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\bin\Debug\FileSelectExample.exe.config
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\bin\Debug\FileSelectExample.exe
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\bin\Debug\FileSelectExample.pdb
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.csprojResolveAssemblyReference.cache
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.Properties.Resources.resources
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.csproj.GenerateResource.cache
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.exe
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.pdb
+C:\Users\bbarnett\Desktop\FileSelectExample\FileSelectExample\obj\Debug\FileSelectExample.Form.resources
