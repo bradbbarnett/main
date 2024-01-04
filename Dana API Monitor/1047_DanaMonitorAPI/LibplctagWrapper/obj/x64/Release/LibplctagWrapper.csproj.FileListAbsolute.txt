@@ -1,0 +1,6 @@
+C:\Users\bbarnett\Desktop\AutomationAPI\LibplctagWrapper\bin\x64\Release\plctag.dll
+C:\Users\bbarnett\Desktop\AutomationAPI\LibplctagWrapper\bin\x64\Release\LibplctagWrapper.dll
+C:\Users\bbarnett\Desktop\AutomationAPI\LibplctagWrapper\bin\x64\Release\LibplctagWrapper.pdb
+C:\Users\bbarnett\Desktop\AutomationAPI\LibplctagWrapper\obj\x64\Release\LibplctagWrapper.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\Desktop\AutomationAPI\LibplctagWrapper\obj\x64\Release\LibplctagWrapper.dll
+C:\Users\bbarnett\Desktop\AutomationAPI\LibplctagWrapper\obj\x64\Release\LibplctagWrapper.pdb

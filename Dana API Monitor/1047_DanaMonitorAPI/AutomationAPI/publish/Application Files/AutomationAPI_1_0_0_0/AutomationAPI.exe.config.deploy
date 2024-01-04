@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5"/>
+    </startup>
+
+  <connectionStrings>
+    
+    <!-- Do not change name field.  Only change connectionString field -->
+
+    <add name="tagCNC" connectionString="Integrex1"/>         <!-- Controller tag name used in the AB PLC -->
+    <add name="ipAddressCNC" connectionString="127.0.0.1"/>   <!-- IP address of the CNC -->
+    <add name="ipAddressAB" connectionString="192.168.1.50"/> <!-- IP address of the AB PLC -->
+    <add name="pathAB" connectionString="1, 0"/>              <!-- (1-Backplane, 2-ControlNet/Ethernet, DH+ Channel A, DH+ChannelB, 3-Serial); (slot#)-->
+    <add name="regIn1" connectionString="16384"/>             <!-- 1st CNC input register number -->
+    <add name="regIn2" connectionString="16405"/>             <!-- 2nd CNC input register number -->
+    <add name="regIn3" connectionString="16455"/>             <!-- 3rd CNC input register number -->
+    <add name="regIn4" connectionString="16406"/>             <!-- 4th CNC input register number -->
+    <add name="regIn5" connectionString="16456"/>             <!-- 5th CNC input register number -->
+    <add name="regOut1" connectionString="18176"/>            <!-- 1st CNC output register number -->
+    <add name="regOut2" connectionString="18197"/>            <!-- 2nd CNC output register number -->
+    <add name="regOut3" connectionString="18199"/>            <!-- 3rd CNC output register number -->
+    <add name="regOut4" connectionString="18247"/>            <!-- 4th CNC output register number -->
+    <add name="regOut5" connectionString="18249"/>            <!-- 5th CNC output register number -->
+    <add name="regOut6" connectionString="18198"/>            <!-- 6th CNC output register number -->
+    <add name="regOut7" connectionString="18248"/>            <!-- 7th CNC output register number -->
+    
+  </connectionStrings>
+  
+</configuration>
