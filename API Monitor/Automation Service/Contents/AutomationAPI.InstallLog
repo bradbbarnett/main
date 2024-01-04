@@ -1,0 +1,230 @@
+﻿Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Warning: The source AutomationAPI is not registered on the local machine.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Warning: The source AutomationAPI is not registered on the local machine.
+Service AutomationAPI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Warning: The source AutomationAPI is not registered on the local machine.
+Service AutomationAPI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Current jobs\Dana Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Warning: The source AutomationAPI is not registered on the local machine.
+Service AutomationAPI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Warning: The source AutomationAPI is not registered on the local machine.
+Service AutomationAPI is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.
+Uninstalling assembly 'C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.InstallLog
+   assemblypath = C:\Users\bbarnett\Desktop\Dana API Monitor\Automation Service\Contents\AutomationAPI.exe
+Removing EventLog source AutomationAPI.
+Service AutomationAPI is being removed from the system...
+Service AutomationAPI was successfully removed from the system.
+Attempt to stop service AutomationAPI.

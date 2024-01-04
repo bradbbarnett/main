@@ -1,0 +1,7 @@
+﻿To Test the Windows Service:
+Open program 'Developer Command Prompt for VS' with administrator privileges.
+Type 'CD <path of application>\bin\Debug'.  For example:
+CD C:\Users\bbarnett\Desktop\AutomationAPI\AutomationAPI\bin\Debug
+Then, type 'installutil AutomationAPI.exe' to install service.
+To uninstall service, type 'installutil /u AutomationAPI.exe'
+Remember to actually start the service using Services.msc.
