@@ -1,0 +1,11 @@
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\bin\Debug\LadderCompareV3.exe.config
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\bin\Debug\LadderCompareV3.exe
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\bin\Debug\LadderCompareV3.pdb
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.csproj.AssemblyReference.cache
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.csproj.SuggestedBindingRedirects.cache
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.Main.resources
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.Properties.Resources.resources
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.csproj.GenerateResource.cache
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.exe
+C:\Users\bbarnett\source\repos\LadderCompareV3\LadderCompareV3\obj\Debug\LadderCompareV3.pdb
