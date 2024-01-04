@@ -1,0 +1,18 @@
+C:\Users\bbarnett\Desktop\FanucCodeEditor\bin\Release\FanucCodeEditor.exe.config
+C:\Users\bbarnett\Desktop\FanucCodeEditor\bin\Release\FanucCodeEditor.exe
+C:\Users\bbarnett\Desktop\FanucCodeEditor\bin\Release\FanucCodeEditor.pdb
+C:\Users\bbarnett\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.Form1.resources
+C:\Users\bbarnett\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.Properties.Resources.resources
+C:\Users\bbarnett\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.csproj.GenerateResource.cache
+C:\Users\bbarnett\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.exe
+C:\Users\bbarnett\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.pdb
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\bin\Release\FanucCodeEditor.exe.config
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\bin\Release\FanucCodeEditor.exe
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\bin\Release\FanucCodeEditor.pdb
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.Form1.resources
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.Properties.Resources.resources
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.csproj.GenerateResource.cache
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.exe
+C:\Users\bbarnett\OneDrive - Mazak Corporation\Desktop\FanucCodeEditor\obj\Release\FanucCodeEditor.pdb

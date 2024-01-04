@@ -1,0 +1,36 @@
+/PROG  ZERO
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "";
+PROG_SIZE	= 325;
+CREATE		= DATE 21-09-24  TIME 08:40:08;
+MODIFIED	= DATE 21-09-27  TIME 10:55:06;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 9;
+MEMORY_SIZE	= 661;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,*,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/APPL
+
+AUTO_SINGULARITY_HEADER;
+  ENABLE_SINGULARITY_AVOIDANCE   : TRUE;
+/MN
+   1:  !PLC <- Executing Command ;
+   2:  GO[1:Status]=99 ;
+   3:   ;
+   4:  !Move To Tuck ;
+   5:J PR[1:jZero] 100% CNT100    ;
+   6:  R[2:RecoveryPos]=1    ;
+   7:   ;
+   8:  !PLC <- At Tuck ;
+   9:  GO[1:Status]=1 ;
+/POS
+/END

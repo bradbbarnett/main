@@ -1,0 +1,42 @@
+/PROG  PNS0001
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "MAIN";
+PROG_SIZE	= 465;
+CREATE		= DATE 21-10-05  TIME 06:02:28;
+MODIFIED	= DATE 21-10-06  TIME 04:12:44;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 15;
+MEMORY_SIZE	= 981;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,*,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/APPL
+
+AUTO_SINGULARITY_HEADER;
+  ENABLE_SINGULARITY_AVOIDANCE   : TRUE;
+/MN
+   1:  LBL[99] ;
+   2:   ;
+   3:  R[1:Command]=(GI[1:Command]) ;
+   4:  SELECT R[1:Command]=1,CALL ZERO ;
+   5:         =2,CALL HOME ;
+   6:         =5,CALL INT_TUCK ;
+   7:         =6,CALL INT_PICK ;
+   8:         =7,CALL INT_PLACE ;
+   9:         =10,CALL TABLEL_TUCK ;
+  10:         =11,CALL TABLER_TUCK ;
+  11:         =12,CALL TABLE_PICK ;
+  12:         =13,CALL TABLE_PLACE ;
+  13:   ;
+  14:  WAIT    .10(sec) ;
+  15:  JMP LBL[99] ;
+/POS
+/END

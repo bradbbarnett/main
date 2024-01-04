@@ -1,0 +1,38 @@
+/PROG  REGRIP_TUCK
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "";
+PROG_SIZE	= 383;
+CREATE		= DATE 21-10-01  TIME 03:58:08;
+MODIFIED	= DATE 21-10-01  TIME 03:59:18;
+FILE_NAME	= INT_TUCK;
+VERSION		= 0;
+LINE_COUNT	= 11;
+MEMORY_SIZE	= 711;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,*,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/APPL
+
+AUTO_SINGULARITY_HEADER;
+  ENABLE_SINGULARITY_AVOIDANCE   : TRUE;
+/MN
+   1:  UFRAME_NUM=3 ;
+   2:   ;
+   3:  !PLC <- Executing Command ;
+   4:  GO[1:Status]=99 ;
+   5:   ;
+   6:  !Move To Tuck ;
+   7:J PR[20:Regrip_Tuck] 100% CNT100    ;
+   8:  R[2:RecoveryPos]=20    ;
+   9:   ;
+  10:  !PLC <- At Tuck ;
+  11:  GO[1:Status]=20 ;
+/POS
+/END
