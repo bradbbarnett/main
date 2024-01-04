@@ -1,0 +1,9 @@
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\bin\Debug\MemoryLadGX.exe
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\bin\Debug\MemoryLadGX.pdb
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.Form.resources
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.Properties.Resources.resources
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.csproj.GenerateResource.cache
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.exe
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.pdb
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Debug\MemoryLadGX.csprojResolveAssemblyReference.cache

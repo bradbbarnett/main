@@ -1,0 +1,17 @@
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\bin\Release\MemoryLadGX.exe
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\bin\Release\MemoryLadGX.pdb
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.Form.resources
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.Properties.Resources.resources
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.csproj.GenerateResource.cache
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.csproj.CoreCompileInputs.cache
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.exe
+C:\Users\bbarnett\Desktop\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.pdb
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\bin\Release\MemoryLadGX.exe
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\bin\Release\MemoryLadGX.pdb
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.csproj.AssemblyReference.cache
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.Form.resources
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.Properties.Resources.resources
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.csproj.GenerateResource.cache
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.csproj.CoreCompileInputs.cache
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.exe
+T:\User Shared\BBarnett\Programming\MemoryLadGX\MemoryLadGX\obj\Release\MemoryLadGX.pdb
